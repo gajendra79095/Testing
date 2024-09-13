@@ -1,3 +1,3 @@
 # Testing
-This is the Testing one.
-This is my testing repo- Gajendra Dixit 
+This is my first Git Repo.
+## Author:- Gajendra Dixit 
